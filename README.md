@@ -11,4 +11,6 @@ Converter: Small time converter for practice, can be improved to convert any oth
 
 Dice: Small dice game where the player tries to guess the number the dice rolls, counting attempts and wins.
 
+Number_Guess: Number guessing game where the user has 15 attempts to guess the right number, receiving small tips after each attempt, letting the user know if he or she needs to attempt a higher or lower number.
+
 More to be added soon.
